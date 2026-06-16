@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=SUMIT%20GOSWAMI&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sumit Goswami</h1>
 
 <h3 align="center">
