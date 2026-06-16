@@ -8,9 +8,7 @@
 🚔 UP Police | 🐍 Python Backend Developer | 🎓 B.Sc Mathematics
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Learning+Flask+and+SQLite;Building+Projects+Every+Day;Future+Software+Engineer;Welcome+To+My+GitHub+Profile" />
-</p>
+
 
 ---
 
@@ -22,6 +20,8 @@
 - 💻 Learning Python, SQLite, Git, GitHub & Flask
 - 🌱 Building projects daily
 - 🎯 Goal: Become a Software Engineer
+
+---
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=blue&style=for-the-badge"/>
@@ -82,16 +82,11 @@ Python + SQLite based application for managing daily expenses.
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=blue&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/sumithackerchd?label=Followers&style=for-the-badge"/>
-</p>
 
