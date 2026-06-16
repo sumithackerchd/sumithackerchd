@@ -19,8 +19,10 @@
 </p>
 
 
-<p align="right">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<a href="https://github.com/sumithackerchd?tab=followers">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white">  
 </p>
 
 
