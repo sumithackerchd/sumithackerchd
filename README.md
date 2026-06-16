@@ -14,7 +14,20 @@
 <a href="https://x.com/cop_sumit_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 <a href="mailto:sumitgiri.chandausi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+
 ---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Learning+Flask+and+SQLite;Building+Projects+Every+Day;Future+Software+Engineer" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
+---
+
 
 ## 👨‍💻 About Me
 
