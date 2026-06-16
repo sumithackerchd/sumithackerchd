@@ -8,6 +8,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=UP+Police;Python+Backend+Developer;Bug+Hunter;Learning+Flask+and+SQLite;Building+Projects+Every+Day;Software+Engineer" />
 </p>
 
+
+
+
 <p align="center">
 <a href="https://www.instagram.com/cop_sumit_goswami"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/sumitgoswamihacker/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -15,12 +18,6 @@
 <a href="mailto:sumitgiri.chandausi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-
----
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Learning+Flask+and+SQLite;Building+Projects+Every+Day;Software+Engineer" />
-</p>
 
 
 
