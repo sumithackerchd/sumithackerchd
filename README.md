@@ -75,16 +75,24 @@ Python + SQLite based application for managing daily expenses.
 
 <p align="center">
 
-<a href="https://www.instagram.com/cop_sumit_goswami" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="60" />
+<a href="https://www.instagram.com/cop_sumit_goswami">
+<img src="https://skillicons.dev/icons?i=instagram" width="60" />
 </a>
 
-<a href="https://www.linkedin.com/in/sumitgoswamihacker/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+<a href="https://www.linkedin.com/in/sumitgoswamihacker/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="60" />
 </a>
 
-<a href="https://x.com/cop_sumit_" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<a href="https://github.com/sumithackerchd">
+<img src="https://skillicons.dev/icons?i=github" width="60" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://x.com/cop_sumit_">
+<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="mailto:sumitgiri.chandausi@gmail.com">
@@ -92,7 +100,6 @@ Python + SQLite based application for managing daily expenses.
 </a>
 
 </p>
-
 ---
 
 ## 📊 GitHub Stats
