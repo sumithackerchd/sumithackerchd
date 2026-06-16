@@ -112,7 +112,8 @@ Python + SQLite based application for managing daily expenses.
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/sumithackerchd?label=Followers&style=for-the-badge"/>
+</p>
 
-## 🐍 SUMIT'S CONTRIBUTION SNAKE
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
