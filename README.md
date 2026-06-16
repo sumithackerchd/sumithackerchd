@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Sumit Goswami</h1>
 
-<h3 align="center">
-🚔 UP Police | 🐍 Python Backend Developer | 🎓 B.Sc Mathematics
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=UP+Police;Python+Backend+Developer;Bug+Hunter;Learning+Flask+and+SQLite;Building+Projects+Every+Day;Software+Engineer" />
+</p>
 
 <p align="center">
 <a href="https://www.instagram.com/cop_sumit_goswami"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -19,12 +19,10 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Learning+Flask+and+SQLite;Building+Projects+Every+Day;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Learning+Flask+and+SQLite;Building+Projects+Every+Day;Software+Engineer" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
+
 
 ---
 
@@ -40,12 +38,6 @@
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=blue&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/sumithackerchd?label=Followers&style=for-the-badge"/>
-</p>
-
----
 
 ## ⚙️ MY TECH STACK
 
