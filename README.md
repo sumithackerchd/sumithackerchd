@@ -16,9 +16,6 @@
 <a href="https://www.linkedin.com/in/sumitgoswamihacker/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://x.com/cop_sumit_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 <a href="mailto:sumitgiri.chandausi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<a href="https://github.com/sumithackerchd?tab=followers">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white">  
 </p>
 
 
@@ -140,6 +137,13 @@ Python + SQLite based expense management system with Search, Delete and Menu-Dri
 
 </p>
 
+---
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<a href="https://github.com/sumithackerchd?tab=followers">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white">  
+</p>
 ---
 
 ## 🐍 Contribution
