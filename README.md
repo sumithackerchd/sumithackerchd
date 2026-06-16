@@ -35,6 +35,21 @@
 
 ---
 
+## 🏆 Certifications & Training
+
+| Certification | Issuer | Status |
+|--------------|---------|---------|
+| ☁️ Google Cloud Database Engineer Specialization | Google Cloud / Coursera | ✅ Certified |
+| ☁️ Google Cloud Fundamentals: Core Infrastructure | Google Cloud | ✅ Certified |
+| ☁️ Fundamentals of Cloud Computing | LearnQuest / Coursera | ✅ Certified |
+| 🌐 Networking 101 | Google Cloud | ✅ Certified |
+| 🔬 A Tour of Google Cloud Hands-on Labs | Google Cloud | ✅ Certified |
+| 🗄️ Databases and SQL for Data Science with Python | IBM | ✅ Certified |
+| 📊 SQL for Data Science | UC Davis | ✅ Certified |
+| 🎓 NIELIT O Level (A Grade) | NIELIT | ✅ Certified |
+| 🎓 B.Sc Mathematics | MJP Rohilkhand University | ✅ Completed |
+---
+
 
 ## ⚙️ MY TECH STACK
 
