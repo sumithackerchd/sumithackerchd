@@ -39,7 +39,18 @@
 
 ---
 
+
+## ⚙️ MY TECH STACK
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode,flask" />
+
+</p>
+
+
 ## 🚀 Tech Stack
+
 
 <p align="center">
 
