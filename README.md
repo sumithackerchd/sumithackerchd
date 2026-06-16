@@ -8,7 +8,10 @@ Python Backend Developer | B.Sc Mathematics | NIELIT O Level (A Grade)
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Learning+Flask+and+SQLite;Building+Projects+Every+Day;Future+Software+Engineer" />
 </p>
 
-# Hi, I'm Sumit Goswami 👋
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
 
 ## About Me
 
@@ -49,3 +52,13 @@ Python Backend Developer | B.Sc Mathematics | NIELIT O Level (A Grade)
 
 - GitHub: https://github.com/sumithackerchd
 - Main : sumitgiri.chandausi@gmail.com
+
+- ## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
