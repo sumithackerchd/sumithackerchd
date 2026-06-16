@@ -58,6 +58,19 @@ Python + SQLite based application for managing daily expenses.
 ---
 
 
+## 🎯 CURRENT LEARNING
+
+```text
+🐍 Python Backend Development
+🗄️ SQLite & Databases
+🌿 Git & GitHub
+🌐 Flask Web Development
+🚀 REST APIs
+```
+
+---
+
+
 ## 📬 REACH ME OUT HERE
 
 <p align="center">
