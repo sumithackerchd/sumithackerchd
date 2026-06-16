@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Sumit Goswami</h1>
+
+<h3 align="center">
+Python Backend Developer | B.Sc Mathematics | NIELIT O Level (A Grade)
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Learning+Flask+and+SQLite;Building+Projects+Every+Day;Future+Software+Engineer" />
+</p>
+
 # Hi, I'm Sumit Goswami 👋
 
 ## About Me
