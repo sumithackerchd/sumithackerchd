@@ -1,69 +1,98 @@
 <h1 align="center">Hi 👋, I'm Sumit Goswami</h1>
 
 <h3 align="center">
-Python Backend Developer | B.Sc Mathematics | NIELIT O Level (A Grade)
+🚔 UP Police | 🐍 Python Backend Developer | 🎓 B.Sc Mathematics
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Learning+Flask+and+SQLite;Building+Projects+Every+Day;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Learning+Flask+and+SQLite;Building+Projects+Every+Day;Future+Software+Engineer;Welcome+To+My+GitHub+Profile" />
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Sc Mathematics
+- 🏆 NIELIT O Level (A Grade)
+- 🚔 Currently serving in UP Police
+- 💻 Learning Python, SQLite, Git, GitHub & Flask
+- 🌱 Building projects daily
+- 🎯 Goal: Become a Software Engineer
+
+---
+
+## 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+---
 
-## About Me
+## ❤️ Follow Me
 
-🎓 B.Sc. Mathematics
+<p align="center">
+<a href="https://github.com/sumithackerchd">
+<img src="https://img.shields.io/github/followers/sumithackerchd?label=Follow&style=for-the-badge" />
+</a>
+</p>
 
-🏆 NIELIT O Level (A Grade)
+---
 
-💼 Currently serving in UP Police
+## 🚀 Tech Stack
 
-💻 Aspiring Python Backend Developer
+<p align="center">
 
-🌱 Learning Python, APIs, Databases and Backend Development
+<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode" />
 
-🎯 Goal: Transition into Software Engineering and work with global technology companies
+</p>
 
-## Skills
+---
 
-- Python
-- Node.js
-- Git & GitHub
-- Linux
-- SQL
-
-  
 ## 📂 Featured Projects
 
-🔹 Police Duty Management System
+### 🚔 Police Duty Management System
 
-🔹 Expense Tracker
+Python + SQLite based application for managing police duty assignments.
 
-🔹 Upcoming Flask Web Projects
+### 💰 Expense Tracker
 
-## Current Focus
+Python + SQLite based application for managing daily expenses.
 
-- Backend Development
-- REST APIs
-- Database Design
-- Problem Solving
+### 🌐 Upcoming Projects
 
-## Connect With Me
+- Flask Expense Tracker
+- Student Management System
+- Employee Management System
 
-- GitHub: https://github.com/sumithackerchd
-- Main : sumitgiri.chandausi@gmail.com
+---
 
-- ## 🚀 Tech Stack
+## 📊 GitHub Stats
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumithackerchd&show_icons=true&theme=tokyonight"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumithackerchd&layout=compact&theme=tokyonight"/>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumithackerchd&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
