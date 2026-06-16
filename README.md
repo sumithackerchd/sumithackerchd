@@ -26,12 +26,24 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Sc Mathematics
-- 🏆 NIELIT O Level (A Grade)
-- 🚔 Currently serving in UP Police
-- 💻 Learning Python, SQLite, Git, GitHub & Flask
-- 🌱 Building projects daily
-- 🎯 Goal: Become a Software Engineer
+🚔 Currently serving in UP Police
+
+🎓 B.Sc Mathematics
+
+🏆 NIELIT O Level (A Grade)
+
+☁️ Google Cloud Database Engineer Specialization
+
+🐍 Python Backend Developer
+
+🗄️ SQL & Database Engineering Enthusiast
+
+🔐 Cybersecurity Enthusiast
+
+🐞 Bug Hunter
+
+🎯 Software Engineer
+
 
 ---
 
@@ -49,10 +61,7 @@
 | NIELIT O Level (A Grade) | NIELIT | 🟢 Certified |
 | B.Sc Mathematics | University | 🟢 Completed |
 
----
-### 📈 Areas of Expertise
 
-`Python` • `SQLite` • `SQL` • `Databases` • `Google Cloud` • `Networking` • `Git` • `GitHub` • `Flask`
 ---
 
 
@@ -96,6 +105,11 @@ Python + SQLite based application for managing daily expenses.
 
 
 ---
+### 📈 Areas of Expertise
+
+`Python` • `SQLite` • `SQL` • `Databases` • `Google Cloud` • `Networking` • `Git` • `GitHub` • `Flask`
+---
+
 
 ## 📊 GitHub Stats
 
