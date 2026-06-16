@@ -8,6 +8,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=950&lines=UP+Police;Python+Backend+Developer;Google+Cloud+Database+Engineer;SQL+and+Database+Specialist;Cybersecurity+Enthusiast;Bug+Hunter;Software+Engineer" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/sumithackerchd?label=Followers&style=for-the-badge" />
+</p>
 
 
 
@@ -26,23 +30,18 @@
 
 ## 👨‍💻 About Me
 
-🚔 Currently serving in UP Police
+🚔 UP Police
 
-🎓 B.Sc Mathematics
-
-🏆 NIELIT O Level (A Grade)
+🎓 B.Sc Mathematics | NIELIT O Level (A Grade)
 
 ☁️ Google Cloud Database Engineer Specialization (13 Courses)
 
 🐍 Python Backend Developer
 
-🗄️ SQL & Database Engineering Enthusiast
-
-🔐 Cybersecurity Enthusiast
-
-🐞 Bug Hunter
+🔐 Cybersecurity Enthusiast | 🐞 Bug Hunter
 
 🎯 Software Engineer
+
 
 
 ---
@@ -79,7 +78,7 @@
 ## ⚙️ MY TECH STACK
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,sqlite,mysql,git,github,vscode,html,css,js,bootstrap,linux,bash,postman,docker" />
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite,mysql,git,github,vscode,linux,bash,postman" />
 </p>
 
 
@@ -89,17 +88,17 @@
 
 ### 🚔 Police Duty Management System
 
-Python + SQLite based application for managing police duty assignments.
+Python + SQLite based CRUD application with Add, View, Update, Delete and Search functionalities.
 
 ### 💰 Expense Tracker
 
-Python + SQLite based application for managing daily expenses.
+Python + SQLite based expense management system with Search, Delete and Menu-Driven Interface.
 
 ### 🌐 Upcoming Projects
 
-- Flask Expense Tracker
-- Student Management System
-- Employee Management System
+* Flask Expense Tracker
+* Student Management System
+* Employee Management System
 
 ---
 
