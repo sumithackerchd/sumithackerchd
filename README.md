@@ -50,6 +50,10 @@
 | B.Sc Mathematics | University | 🟢 Completed |
 
 ---
+### 📈 Areas of Expertise
+
+`Python` • `SQLite` • `SQL` • `Databases` • `Google Cloud` • `Networking` • `Git` • `GitHub` • `Flask`
+---
 
 
 ## ⚙️ MY TECH STACK
