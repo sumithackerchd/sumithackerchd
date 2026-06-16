@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sumit Goswami 👋
 
-<!--
-**sumithackerchd/sumithackerchd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 B.Sc. Mathematics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 NIELIT O Level (A Grade)
+
+💼 Currently serving in UP Police
+
+💻 Aspiring Python Backend Developer
+
+🌱 Learning Python, APIs, Databases and Backend Development
+
+🎯 Goal: Transition into Software Engineering and work with global technology companies
+
+## Skills
+
+- Python
+- Node.js
+- Git & GitHub
+- Linux
+- SQL
+
+## Current Focus
+
+- Backend Development
+- REST APIs
+- Database Design
+- Problem Solving
+
+## Connect With Me
+
+- GitHub: https://github.com/sumithackerchd
