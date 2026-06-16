@@ -36,10 +36,13 @@ Python Backend Developer | B.Sc Mathematics | NIELIT O Level (A Grade)
 - SQL
 
   
-## Projects
+## 📂 Featured Projects
 
-- Police Duty Management System (Python + SQLite)
-- Expense Tracker (Python + SQLite)
+🔹 Police Duty Management System
+
+🔹 Expense Tracker
+
+🔹 Upcoming Flask Web Projects
 
 ## Current Focus
 
@@ -62,3 +65,5 @@ Python Backend Developer | B.Sc Mathematics | NIELIT O Level (A Grade)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
