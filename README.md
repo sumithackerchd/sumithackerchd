@@ -22,6 +22,12 @@
 - Linux
 - SQL
 
+  
+## Projects
+
+- Police Duty Management System (Python + SQLite)
+- Expense Tracker (Python + SQLite)
+
 ## Current Focus
 
 - Backend Development
