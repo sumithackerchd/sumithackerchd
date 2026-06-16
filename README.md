@@ -144,7 +144,9 @@ Python + SQLite based expense management system with Search, Delete and Menu-Dri
 <a href="https://github.com/sumithackerchd?tab=followers">
 <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white">  
 </p>
----
+
+ 
+
 
 ## 🐍 Contribution
 
