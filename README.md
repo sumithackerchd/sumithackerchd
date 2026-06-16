@@ -30,13 +30,10 @@
 
 ---
 
-
 ## ⚙️ MY TECH STACK
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode,flask" />
-
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite,mysql,git,github,vscode,html,css,js,bootstrap,linux,bash,postman,docker" />
 </p>
 
 
@@ -57,6 +54,31 @@ Python + SQLite based application for managing daily expenses.
 - Flask Expense Tracker
 - Student Management System
 - Employee Management System
+
+---
+
+
+## 📬 REACH ME OUT HERE
+
+<p align="center">
+
+<a href="https://www.instagram.com/cop_sumit_goswami" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="60" />
+</a>
+
+<a href="https://www.linkedin.com/in/sumitgoswamihacker/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+</a>
+
+<a href="https://x.com/cop_sumit_" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:sumitgiri.chandausi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
