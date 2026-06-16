@@ -8,10 +8,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=950&lines=UP+Police;Python+Backend+Developer;Google+Cloud+Database+Engineer;SQL+and+Database+Specialist;Cybersecurity+Enthusiast;Bug+Hunter;Software+Engineer" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/sumithackerchd?label=Followers&style=for-the-badge" />
-</p>
 
 
 
@@ -23,6 +19,10 @@
 </p>
 
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/sumithackerchd?label=Followers&style=for-the-badge" />
+</p>
 
 
 ---
