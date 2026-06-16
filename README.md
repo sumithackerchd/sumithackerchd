@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Goswami</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=UP+Police;Python+Backend+Developer;Bug+Hunter;Learning+Flask+and+SQLite;Building+Projects+Every+Day;Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=950&lines=UP+Police;Python+Backend+Developer;Google+Cloud+Database+Engineer;SQL+and+Database+Specialist;Cybersecurity+Enthusiast;Bug+Hunter;Software+Engineer" />
 </p>
 
 
