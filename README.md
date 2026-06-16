@@ -18,6 +18,7 @@
 <a href="mailto:sumitgiri.chandausi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+---
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
