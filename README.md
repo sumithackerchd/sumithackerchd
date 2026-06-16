@@ -19,9 +19,8 @@
 </p>
 
 
-<p align="center">
+<p align="right">
 <img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/sumithackerchd?label=Followers&style=for-the-badge" />
 </p>
 
 
