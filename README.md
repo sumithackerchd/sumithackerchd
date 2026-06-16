@@ -23,22 +23,9 @@
 - 🌱 Building projects daily
 - 🎯 Goal: Become a Software Engineer
 
----
-
-## 👀 Profile Visitors
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-## ❤️ Follow Me
-
-<p align="center">
-<a href="https://github.com/sumithackerchd">
-<img src="https://img.shields.io/github/followers/sumithackerchd?label=Follow&style=for-the-badge" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/sumithackerchd?label=Followers&style=for-the-badge"/>
 </p>
 
 ---
@@ -52,15 +39,6 @@
 
 </p>
 
-
-## 🚀 Tech Stack
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode" />
-
-</p>
 
 ---
 
