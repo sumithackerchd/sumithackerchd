@@ -113,6 +113,6 @@ Python + SQLite based application for managing daily expenses.
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
 
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=SUMIT%20GOSWAMI&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
+## 🐍 SUMIT'S CONTRIBUTION SNAKE
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
