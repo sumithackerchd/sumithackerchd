@@ -32,7 +32,7 @@
 
 🏆 NIELIT O Level (A Grade)
 
-☁️ Google Cloud Database Engineer Specialization
+☁️ Google Cloud Database Engineer Specialization (13 Courses)
 
 🐍 Python Backend Developer
 
