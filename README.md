@@ -47,19 +47,30 @@
 
 ---
 
-## 🏆 Certifications & Training
+## 🏆 Featured Certifications
 
-| 🏅 Certification | 🏢 Issuer | 📌 Status |
-|-----------------|-----------|------------|
-| Google Cloud Database Engineer Specialization | Google Cloud | 🟢 Certified |
-| Google Cloud Fundamentals: Core Infrastructure | Google Cloud | 🟢 Certified |
-| Fundamentals of Cloud Computing | LearnQuest | 🟢 Certified |
-| Networking 101 | Google Cloud | 🟢 Certified |
-| A Tour of Google Cloud Hands-on Labs | Google Cloud | 🟢 Certified |
-| Databases and SQL for Data Science with Python | IBM | 🟢 Certified |
-| SQL for Data Science | UC Davis | 🟢 Certified |
-| NIELIT O Level (A Grade) | NIELIT | 🟢 Certified |
-| B.Sc Mathematics | University | 🟢 Completed |
+| 🏅 Certification                                   | 🏢 Issuer           | 📌 Status   |
+| -------------------------------------------------- | ------------------- | ----------- |
+| Google Cloud Database Engineer Specialization      | Google Cloud        | ⭐ Featured  |
+| AWS Cloud Technical Essentials                     | Amazon Web Services | ✅ Certified |
+| Foundations of Cybersecurity                       | Google              | ✅ Certified |
+| Crash Course on Python                             | Google              | ✅ Certified |
+| Databases and SQL for Data Science with Python     | IBM                 | ✅ Certified |
+| SQL for Data Science                               | UC Davis            | ✅ Certified |
+| Google Cloud Fundamentals: Core Infrastructure     | Google Cloud        | ✅ Certified |
+| Introduction to Cybersecurity Tools & Cyberattacks | IBM                 | ✅ Certified |
+| NIELIT O Level (A Grade)                           | NIELIT              | ✅ Certified |
+
+## 🎓 Additional Training
+
+* Enterprise Database Migration (Google Cloud)
+* Cloud SQL for MySQL: Qwik Start (Google Cloud)
+* Securing Cloud SQL for PostgreSQL (Google Cloud)
+* Cloud Spanner Schemas & Query Plans (Google Cloud)
+* Networking 101 (Google Cloud)
+* Technical Support Fundamentals (Google)
+* Foundations of Project Management (Google)
+* C for Everyone: Programming Fundamentals (UC Santa Cruz)
 
 
 ---
