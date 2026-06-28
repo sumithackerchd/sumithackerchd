@@ -12,31 +12,13 @@
 
 
 <p align="center">
-
-<a href="https://sumithackerchd.github.io/Portfolio-Website/">
-<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=google-chrome&logoColor=white">
+ <a href="https://sumithackerchd.github.io/Portfolio-Website/">
+<img src="https://img.shields.io/badge/🌐-Portfolio-0A66C2?style=for-the-badge">
 </a>
-
-<a href="https://www.linkedin.com/in/sumitgoswamihacker/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/sumithackerchd">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/cop_sumit_goswami">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://x.com/cop_sumit_">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
-
-<a href="mailto:sumitgiri.chandausi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+<a href="https://www.instagram.com/cop_sumit_goswami"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sumitgoswamihacker/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://x.com/cop_sumit_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="mailto:sumitgiri.chandausi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 
