@@ -11,7 +11,7 @@
 
 
 
-<p align="center">
+<p align="Right">
  
 <a href="https://sumithackerchd.github.io/Portfolio-Website"><img src="https://img.shields.io/badge/🌐-Portfolio-0A66C2?style=for-the-badge&logo=Portfolio&logoColor=white"></a>
 <a href="https://www.instagram.com/cop_sumit_goswami"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
