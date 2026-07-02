@@ -74,36 +74,9 @@
 
 # 💻 Tech Stack
 
-### 🚀 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,html,css,js"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,sqlite,mysql,postgres,mongodb,gcp,docker,git,github,linux,bash,vscode,postman,html,css,js,bootstrap&perline=10" />
 </p>
-
-### ⚙️ Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres"/>
-</p>
-
-### ☁️ Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=gcp"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman"/>
-</p>
-
 ---
 
 # 🚀 Featured Projects
@@ -205,7 +178,6 @@ Personal Expense Management Application.
 
 # 🌱 Currently Learning
 
-```text
 🐍 Advanced Python
 
 🌐 Flask Backend Development
@@ -221,7 +193,7 @@ Personal Expense Management Application.
 🔐 Secure Authentication
 
 🚀 Deployment
-```
+
 
 ---
 
@@ -241,7 +213,7 @@ Personal Expense Management Application.
 
 `Python` • `Flask` • `REST APIs` • `SQL` • `SQLite` • `MySQL` • `Google Cloud` • `Cybersecurity` • `Git` • `GitHub`
 ---
----
+
 
 # 🏆 GitHub Trophies
 
@@ -356,77 +328,6 @@ Feel free to connect with me through the social links above.
 </p>
 
 
-
-## 🎓 Additional Training
-
-* Enterprise Database Migration (Google Cloud)
-* Cloud SQL for MySQL: Qwik Start (Google Cloud)
-* Securing Cloud SQL for PostgreSQL (Google Cloud)
-* Cloud Spanner Schemas & Query Plans (Google Cloud)
-* Networking 101 (Google Cloud)
-* Technical Support Fundamentals (Google)
-* Foundations of Project Management (Google)
-* C for Everyone: Programming Fundamentals (UC Santa Cruz)
-
-
----
-
-
-# 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,sqlite,mysql,postgres,mongodb,gcp,docker,git,github,linux,bash,vscode,postman,html,css,js,bootstrap&perline=10" />
-</p>
-
-
----
-
-## 📂 Featured Projects
-
-### 🚔 Police Duty Management System
-
-Python + SQLite based CRUD application with Add, View, Update, Delete and Search functionalities.
-
-### 💰 Expense Tracker
-
-Python + SQLite based expense management system with Search, Delete and Menu-Driven Interface.
-
-### 🌐 Upcoming Projects
-
-* Flask Expense Tracker
-* Student Management System
-* Employee Management System
-
----
-
-
-## 🎯 CURRENT LEARNING
-
-```text
-🐍 Python Backend Development
-🗄️ SQLite & Databases
-🌿 Git & GitHub
-🌐 Flask Web Development
-🚀 REST APIs
-```
-
-
----
-### 📈 Areas of Expertise
-
-`Python` • `SQLite` • `SQL` • `Databases` • `Google Cloud` • `Networking` • `Git` • `GitHub` • `Flask`
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumithackerchd&show_icons=true&theme=tokyonight"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumithackerchd&layout=compact&theme=tokyonight"/>
-
-
-</p>
 
 ---
 
