@@ -39,19 +39,22 @@
 
 ---
 
-# 🏆 Featured Certifications
 
-| 🏅 Certification | 🏢 Organization |
-|------------------|----------------|
-| ⭐ Google Cloud Database Engineer Specialization | Google Cloud |
-| AWS Cloud Technical Essentials | Amazon Web Services |
-| Foundations of Cybersecurity | Google |
-| Crash Course on Python | Google |
-| Databases and SQL for Data Science with Python | IBM |
-| SQL for Data Science | UC Davis |
-| Google Cloud Fundamentals: Core Infrastructure | Google Cloud |
-| Introduction to Cybersecurity Tools & Cyberattacks | IBM |
-| NIELIT O Level (A Grade) | NIELIT |
+## 🏆 Featured Certifications
+
+| 🏅 Certification                                   | 🏢 Issuer           | 📌 Status   |
+| -------------------------------------------------- | ------------------- | ----------- |
+| Google Cloud Database Engineer Specialization      | Google Cloud        | ⭐ Featured  |
+| AWS Cloud Technical Essentials                     | Amazon Web Services | ✅ Certified |
+| Foundations of Cybersecurity                       | Google              | ✅ Certified |
+| Crash Course on Python                             | Google              | ✅ Certified |
+| Databases and SQL for Data Science with Python     | IBM                 | ✅ Certified |
+| SQL for Data Science                               | UC Davis            | ✅ Certified |
+| Google Cloud Fundamentals: Core Infrastructure     | Google Cloud        | ✅ Certified |
+| Introduction to Cybersecurity Tools & Cyberattacks | IBM                 | ✅ Certified |
+| NIELIT O Level (A Grade)                           | NIELIT              | ✅ Certified |
+
+
 
 ---
 
@@ -238,20 +241,121 @@ Personal Expense Management Application.
 
 `Python` • `Flask` • `REST APIs` • `SQL` • `SQLite` • `MySQL` • `Google Cloud` • `Cybersecurity` • `Git` • `GitHub`
 ---
+---
 
-## 🏆 Featured Certifications
+# 🏆 GitHub Trophies
 
-| 🏅 Certification                                   | 🏢 Issuer           | 📌 Status   |
-| -------------------------------------------------- | ------------------- | ----------- |
-| Google Cloud Database Engineer Specialization      | Google Cloud        | ⭐ Featured  |
-| AWS Cloud Technical Essentials                     | Amazon Web Services | ✅ Certified |
-| Foundations of Cybersecurity                       | Google              | ✅ Certified |
-| Crash Course on Python                             | Google              | ✅ Certified |
-| Databases and SQL for Data Science with Python     | IBM                 | ✅ Certified |
-| SQL for Data Science                               | UC Davis            | ✅ Certified |
-| Google Cloud Fundamentals: Core Infrastructure     | Google Cloud        | ✅ Certified |
-| Introduction to Cybersecurity Tools & Cyberattacks | IBM                 | ✅ Certified |
-| NIELIT O Level (A Grade)                           | NIELIT              | ✅ Certified |
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sumithackerchd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumithackerchd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumithackerchd&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumithackerchd&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumithackerchd&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+# 📋 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumithackerchd&theme=tokyonight" width="100%" />
+</p>
+
+---
+
+# 🚀 What I'm Working On
+
+- 🧠 AI Resume Analyzer
+- ⌨️ TypeMaster India
+- 💻 ReviewForge AI
+- 🌐 Flask Backend Projects
+- ☁️ Google Cloud
+- 🔐 Cybersecurity
+
+---
+
+# 💡 Favorite Quote
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on:
+
+- 🐍 Python Projects
+- 🌐 Flask Applications
+- ☁️ Cloud Computing
+- 🗄️ Database Systems
+- 🤖 AI Applications
+- 💻 Open Source Projects
+
+Feel free to connect with me through the social links above.
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<a href="https://github.com/sumithackerchd?tab=followers">
+<img src="https://img.shields.io/github/followers/sumithackerchd?label=Followers&style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
+
+<p align="center">
+  <b>Happy Coding! 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</p>
+
+
 
 ## 🎓 Additional Training
 
