@@ -372,10 +372,10 @@ Feel free to connect with me through the social links above.
 ---
 
 
-## ⚙️ MY TECH STACK
+# 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,sqlite,mysql,git,github,vscode,linux,bash,postman" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,sqlite,mysql,postgres,mongodb,gcp,docker,git,github,linux,bash,vscode,postman,html,css,js,bootstrap&perline=10" />
 </p>
 
 
