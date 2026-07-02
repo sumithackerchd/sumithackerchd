@@ -80,100 +80,12 @@
 
 
 # 🚀 Featured Projects
----
-## 🧠 AI Resume Analyzer
 
-AI-powered Resume Analyzer with ATS Score, Resume Parsing, Resume Feedback and Improvement Suggestions.
-
-**Tech Stack**
-
-- Python
-- Flask
-- HTML
-- CSS
-- SQLite
-
----
-
-## ⌨️ TypeMaster India
-
-A complete Typing Practice Platform with:
-
-- User Authentication
-- Dashboard
-- Real-time Typing Tests
-- Leaderboards
-- Certificates
-- Analytics
-- Admin Panel
-- Performance Tracking
-
-**Tech Stack**
-
-- Flask
-- SQLite
-- JavaScript
-- HTML
-- CSS
-
----
-
-## 💻 ReviewForge AI
-
-AI-powered GitHub Code Review Platform for developers.
-
-**Features**
-
-- AI Code Review
-- Repository Analysis
-- Smart Suggestions
-- Code Quality Reports
-
-**Tech Stack**
-
-- Python
-- Flask
-- OpenAI API
-- SQLite
-
----
-
-## 🚔 Police Duty Management System
-
-Python CRUD application for managing police duty records.
-
-**Features**
-
-- Add Records
-- Update Records
-- Delete Records
-- Search
-- Reports
-
-**Tech Stack**
-
-- Python
-- SQLite
-
----
-
-## 💰 Expense Tracker
-
-Personal Expense Management Application.
-
-**Features**
-
-- CRUD Operations
-- Search
-- Reports
-- Categories
-- Monthly Tracking
-
-**Tech Stack**
-
-- Python
-- SQLite
-
+- 🧠 **AI Resume Analyzer** — ATS-based resume analysis system *(Python • Flask • SQLite)*
+- ⌨️ **TypeMaster India** — Typing practice platform with leaderboard & certificates *(Flask • SQLite • JS)*
+- 💻 **ReviewForge AI** — AI-powered GitHub code review platform *(Python • Flask • OpenAI)*
+- 🚔 **Police Duty Management** — CRUD-based duty management system *(Python • SQLite)*
+- 💰 **Expense Tracker** — Personal expense management application *(Python • SQLite)*
 ---
 
 # 🌱 Currently Learning
