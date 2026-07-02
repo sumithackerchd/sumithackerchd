@@ -90,25 +90,15 @@
 | 💰 **Expense Tracker** | Personal expense management system with reports. | Python • SQLite |
 ---
 
+# 🚀 Currently Building
+
+🧠 **AI Resume Analyzer** • ⌨️ **TypeMaster India** • 💻 **ReviewForge AI**
+
+---
+
 # 🌱 Currently Learning
 
-🐍 Advanced Python
-
-🌐 Flask Backend Development
-
-🔥 REST APIs
-
-🗄️ PostgreSQL
-
-☁️ Google Cloud
-
-🐳 Docker
-
-🔐 Secure Authentication
-
-🚀 Deployment
-
-
+`Advanced Python` • `Flask` • `REST APIs` • `PostgreSQL` • `Docker` • `Google Cloud`
 ---
 
 # 🎯 2026 Goals
@@ -152,16 +142,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumithackerchd&theme=tokyonight" width="100%" />
 </p>
 
----
 
-# 🚀 What I'm Working On
 
-- 🧠 AI Resume Analyzer
-- ⌨️ TypeMaster India
-- 💻 ReviewForge AI
-- 🌐 Flask Backend Projects
-- ☁️ Google Cloud
-- 🔐 Cybersecurity
+
 
 ---
 
