@@ -81,11 +81,13 @@
 
 # 🚀 Featured Projects
 
-- 🧠 **AI Resume Analyzer** — ATS-based resume analysis system *(Python • Flask • SQLite)*
-- ⌨️ **TypeMaster India** — Typing practice platform with leaderboard & certificates *(Flask • SQLite • JS)*
-- 💻 **ReviewForge AI** — AI-powered GitHub code review platform *(Python • Flask • OpenAI)*
-- 🚔 **Police Duty Management** — CRUD-based duty management system *(Python • SQLite)*
-- 💰 **Expense Tracker** — Personal expense management application *(Python • SQLite)*
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🧠 **AI Resume Analyzer** | AI-powered resume analyzer with ATS score & feedback. | Python • Flask • SQLite |
+| ⌨️ **TypeMaster India** | Modern typing practice platform with leaderboard & certificates. | Flask • SQLite • JavaScript |
+| 💻 **ReviewForge AI** | AI-powered GitHub code review platform. | Python • Flask • OpenAI |
+| 🚔 **Police Duty Management** | CRUD application for managing police duty records. | Python • SQLite |
+| 💰 **Expense Tracker** | Personal expense management system with reports. | Python • SQLite |
 ---
 
 # 🌱 Currently Learning
