@@ -25,22 +25,242 @@
 ---
 
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-🚔 UP Police
+<h1 align="center">Hi 👋, I'm Sumit Goswami</h1>
 
-🎓 B.Sc Mathematics | NIELIT O Level (A Grade)
+<h3 align="center">Software Engineer | Python Backend Developer | Cloud & Database Enthusiast</h3>
 
-☁️ Google Cloud Database Engineer Specialization (13 Courses)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=950&lines=Software+Engineer;Python+Backend+Developer;Flask+Developer;Google+Cloud+Database+Engineer;SQL+Database+Specialist;Cybersecurity+Enthusiast;Open+Source+Learner" />
+</p>
 
-🐍 Python Backend Developer
+<p align="center">
+<a href="https://www.instagram.com/cop_sumit_goswami"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sumitgoswamihacker/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://x.com/cop_sumit_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="mailto:sumitgiri.chandausi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://sumithackerchd.github.io/Portfolio-Website"><img src="https://img.shields.io/badge/🌐-Portfolio-0A66C2?style=for-the-badge"></a>
+</p>
 
-🔐 Cybersecurity Enthusiast | 🐞 Bug Hunter
+---
 
-🎯 Software Engineer
+# 👨‍💻 About Me
 
+💻 Passionate Software Engineer focused on building scalable backend applications.
 
+🐍 Python Backend Developer specializing in **Flask, SQL, SQLite, REST APIs and Backend Development.**
 
+☁️ Completed **Google Cloud Database Engineer Specialization (13 Courses)**.
+
+🗄️ Strong knowledge of **Database Design, SQL, SQLite & MySQL.**
+
+🔐 Cybersecurity Enthusiast | Bug Hunter | Cloud Learner.
+
+🚀 Currently building production-ready Flask applications and AI-powered tools.
+
+🎯 Looking for **Software Engineer / Python Backend Developer** opportunities.
+
+---
+
+# 🏆 Featured Certifications
+
+| 🏅 Certification | 🏢 Organization |
+|------------------|----------------|
+| ⭐ Google Cloud Database Engineer Specialization | Google Cloud |
+| AWS Cloud Technical Essentials | Amazon Web Services |
+| Foundations of Cybersecurity | Google |
+| Crash Course on Python | Google |
+| Databases and SQL for Data Science with Python | IBM |
+| SQL for Data Science | UC Davis |
+| Google Cloud Fundamentals: Core Infrastructure | Google Cloud |
+| Introduction to Cybersecurity Tools & Cyberattacks | IBM |
+| NIELIT O Level (A Grade) | NIELIT |
+
+---
+
+# 📚 Additional Learning
+
+- Enterprise Database Migration
+- Cloud SQL for MySQL
+- Cloud Spanner Schemas & Query Plans
+- Networking 101
+- Technical Support Fundamentals
+- Foundations of Project Management
+- C Programming Fundamentals
+
+---
+
+# 💻 Tech Stack
+
+### 🚀 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js"/>
+</p>
+
+### ⚙️ Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres"/>
+</p>
+
+### ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 AI Resume Analyzer
+
+AI-powered Resume Analyzer with ATS Score, Resume Parsing, Resume Feedback and Improvement Suggestions.
+
+**Tech Stack**
+
+- Python
+- Flask
+- HTML
+- CSS
+- SQLite
+
+---
+
+## ⌨️ TypeMaster India
+
+A complete Typing Practice Platform with:
+
+- User Authentication
+- Dashboard
+- Real-time Typing Tests
+- Leaderboards
+- Certificates
+- Analytics
+- Admin Panel
+- Performance Tracking
+
+**Tech Stack**
+
+- Flask
+- SQLite
+- JavaScript
+- HTML
+- CSS
+
+---
+
+## 💻 ReviewForge AI
+
+AI-powered GitHub Code Review Platform for developers.
+
+**Features**
+
+- AI Code Review
+- Repository Analysis
+- Smart Suggestions
+- Code Quality Reports
+
+**Tech Stack**
+
+- Python
+- Flask
+- OpenAI API
+- SQLite
+
+---
+
+## 🚔 Police Duty Management System
+
+Python CRUD application for managing police duty records.
+
+**Features**
+
+- Add Records
+- Update Records
+- Delete Records
+- Search
+- Reports
+
+**Tech Stack**
+
+- Python
+- SQLite
+
+---
+
+## 💰 Expense Tracker
+
+Personal Expense Management Application.
+
+**Features**
+
+- CRUD Operations
+- Search
+- Reports
+- Categories
+- Monthly Tracking
+
+**Tech Stack**
+
+- Python
+- SQLite
+
+---
+
+# 🌱 Currently Learning
+
+```text
+🐍 Advanced Python
+
+🌐 Flask Backend Development
+
+🔥 REST APIs
+
+🗄️ PostgreSQL
+
+☁️ Google Cloud
+
+🐳 Docker
+
+🔐 Secure Authentication
+
+🚀 Deployment
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build 10+ Professional Projects
+- ✅ Master Flask
+- ✅ Learn Docker
+- ✅ PostgreSQL
+- ✅ Deploy Full Stack Applications
+- ✅ Contribute to Open Source
+- ✅ Land an International Software Engineering Role
+
+---
+
+# 📈 Areas of Expertise
+
+`Python` • `Flask` • `REST APIs` • `SQL` • `SQLite` • `MySQL` • `Google Cloud` • `Cybersecurity` • `Git` • `GitHub`
 ---
 
 ## 🏆 Featured Certifications
