@@ -77,7 +77,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,sqlite,mysql,postgres,mongodb,gcp,docker,git,github,linux,bash,vscode,postman,html,css,js,bootstrap&perline=10" />
 </p>
----
+
 
 # 🚀 Featured Projects
 
@@ -215,22 +215,6 @@ Personal Expense Management Application.
 ---
 
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumithackerchd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" />
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumithackerchd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumithackerchd&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 # 🔥 GitHub Streak
 
