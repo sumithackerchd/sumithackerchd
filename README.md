@@ -59,7 +59,7 @@
 ---
 
 
----
+
 # 📚 Additional Learning
 
 - Enterprise Database Migration
@@ -264,70 +264,6 @@ Personal Expense Management Application.
 - 🌐 Flask Backend Projects
 - ☁️ Google Cloud
 - 🔐 Cybersecurity
-
----
-
-# 💡 Favorite Quote
-
-<div align="center">
-
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in collaborating on:
-
-- 🐍 Python Projects
-- 🌐 Flask Applications
-- ☁️ Cloud Computing
-- 🗄️ Database Systems
-- 🤖 AI Applications
-- 💻 Open Source Projects
-
-Feel free to connect with me through the social links above.
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-<a href="https://github.com/sumithackerchd?tab=followers">
-<img src="https://img.shields.io/github/followers/sumithackerchd?label=Followers&style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
-
-<p align="center">
-  <b>Happy Coding! 🚀</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-</p>
-
-
 
 ---
 
