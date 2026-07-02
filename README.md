@@ -79,9 +79,9 @@
 </p>
 
 
-## 🚀 Featured Projects
---
-# 🧠 AI Resume Analyzer
+# 🚀 Featured Projects
+---
+## 🧠 AI Resume Analyzer
 
 AI-powered Resume Analyzer with ATS Score, Resume Parsing, Resume Feedback and Improvement Suggestions.
 
