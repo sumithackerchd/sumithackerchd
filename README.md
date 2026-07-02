@@ -165,15 +165,7 @@
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumithackerchd&theme=tokyonight" />
-
-</p>
-
----
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
