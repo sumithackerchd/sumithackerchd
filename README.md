@@ -23,109 +23,257 @@
 
 # 👨‍💻 About Me
 
-💻 Passionate Software Engineer focused on building scalable backend applications.
+💻 Passionate Software Engineer with a strong focus on **Backend Development, Cloud Technologies and AI Applications.**
 
-🐍 Python Backend Developer specializing in **Flask, SQL, SQLite, REST APIs and Backend Development.**
+🐍 Python Backend Developer specializing in:
 
-☁️ Completed **Google Cloud Database Engineer Specialization (13 Courses)**.
+- Flask
+- FastAPI
+- REST APIs
+- SQL
+- SQLite
+- PostgreSQL
+- Backend Architecture
 
-🗄️ Strong knowledge of **Database Design, SQL, SQLite & MySQL.**
+☁️ Completed **Google Cloud Database Engineer Specialization (13 Courses).**
 
-🔐 Cybersecurity Enthusiast | Bug Hunter | Cloud Learner.
+🗄️ Strong understanding of **Database Design, SQL, SQLite, MySQL & PostgreSQL.**
 
-🚀 Currently building production-ready Flask applications and AI-powered tools.
+🔐 Cybersecurity Enthusiast • Bug Hunter • Cloud Learner
 
-🎯 Looking for **Software Engineer / Python Backend Developer** opportunities.
+🚀 Passionate about building scalable backend systems and AI-powered web applications.
 
----
-
-
-## 🏆 Featured Certifications
-
-| 🏅 Certification                                   | 🏢 Issuer           | 📌 Status   |
-| -------------------------------------------------- | ------------------- | ----------- |
-| Google Cloud Database Engineer Specialization      | Google Cloud        | ⭐ Featured  |
-| AWS Cloud Technical Essentials                     | Amazon Web Services | ✅ Certified |
-| Foundations of Cybersecurity                       | Google              | ✅ Certified |
-| Crash Course on Python                             | Google              | ✅ Certified |
-| Databases and SQL for Data Science with Python     | IBM                 | ✅ Certified |
-| SQL for Data Science                               | UC Davis            | ✅ Certified |
-| Google Cloud Fundamentals: Core Infrastructure     | Google Cloud        | ✅ Certified |
-| Introduction to Cybersecurity Tools & Cyberattacks | IBM                 | ✅ Certified |
-| NIELIT O Level (A Grade)                           | NIELIT              | ✅ Certified |
-
-
+🎯 Open to **Software Engineer**, **Backend Developer**, **Python Developer** and **Cloud Engineering** opportunities.
 
 ---
 
+# 📫 Connect With Me
 
+- 💻 GitHub: https://github.com/sumithackerchd
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 🌐 Portfolio: https://your-portfolio.com
+
+---
+
+# 🏆 Featured Certifications
+
+| Certification | Issuer |
+|---------------|--------|
+| ⭐ Google Cloud Database Engineer Specialization | Google Cloud |
+| AWS Cloud Technical Essentials | Amazon Web Services |
+| Foundations of Cybersecurity | Google |
+| Crash Course on Python | Google |
+| Databases and SQL for Data Science with Python | IBM |
+| SQL for Data Science | UC Davis |
+| Google Cloud Fundamentals | Google Cloud |
+| Introduction to Cybersecurity Tools & Cyberattacks | IBM |
+| NIELIT O Level (A Grade) | NIELIT |
+
+---
 
 # 📚 Additional Learning
 
 - Enterprise Database Migration
-- Cloud SQL for MySQL
-- Cloud Spanner Schemas & Query Plans
-- Networking 101
-- Technical Support Fundamentals
-- Foundations of Project Management
-- C Programming Fundamentals
+- Cloud SQL
+- Cloud Spanner
+- Networking Fundamentals
+- Project Management
+- Linux
+- Git & GitHub
+- Docker
+- REST API Design
+- Authentication & Authorization
 
 ---
 
 # 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,sqlite,mysql,postgres,mongodb,gcp,docker,git,github,linux,bash,vscode,postman,html,css,js,bootstrap&perline=10" />
+
+<img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,sqlite,mysql,postgres,mongodb,gcp,docker,git,github,linux,bash,vscode,postman,html,css,js,bootstrap&perline=10"/>
+
 </p>
 
+---
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🧠 **AI Resume Analyzer** | AI-powered resume analyzer with ATS score & feedback. | Python • Flask • SQLite |
-| ⌨️ **TypeMaster India** | Modern typing practice platform with leaderboard & certificates. | Flask • SQLite • JavaScript |
-| 💻 **ReviewForge AI** | AI-powered GitHub code review platform. | Python • Flask • OpenAI |
-| 🚔 **Police Duty Management** | CRUD application for managing police duty records. | Python • SQLite |
-| 💰 **Expense Tracker** | Personal expense management system with reports. | Python • SQLite |
+## 🧠 AI Resume Analyzer
+
+- ATS Score Analysis
+- AI Resume Feedback
+- Resume Parsing
+- Analytics Dashboard
+
+**Tech Stack**
+
+Python • Flask • SQLite • OpenAI
+
+---
+
+## ⌨️ TypeMaster India
+
+- Typing Practice Platform
+- User Dashboard
+- Leaderboard
+- Certificates
+- Admin Panel
+
+**Tech Stack**
+
+Flask • SQLite • JavaScript
+
+---
+
+## 💻 ReviewForge AI
+
+- AI Code Review
+- GitHub Repository Analysis
+- OpenAI Integration
+
+**Tech Stack**
+
+Python • Flask • OpenAI API
+
+---
+
+## ❤️ FundRaise AI
+
+- AI Powered Crowdfunding Platform
+- Campaign Management
+- Authentication
+- Payment Ready Architecture
+
+**Tech Stack**
+
+FastAPI • Next.js • PostgreSQL
+
+---
+
+## 🚔 Police Duty Management
+
+CRUD Application for Police Duty Records.
+
+**Tech Stack**
+
+Python • SQLite
+
+---
+
+## 💰 Expense Tracker
+
+Personal Finance Management System.
+
+**Tech Stack**
+
+Python • SQLite
+
 ---
 
 # 🚀 Currently Building
 
-🧠 **AI Resume Analyzer** • ⌨️ **TypeMaster India** • 💻 **ReviewForge AI**
+- ❤️ FundRaise AI
+- 🧠 AI Resume Analyzer
+- 💻 ReviewForge AI
+- ⌨️ TypeMaster India
 
 ---
 
 # 🌱 Currently Learning
 
-`Advanced Python` • `Flask` • `REST APIs` • `PostgreSQL` • `Docker` • `Google Cloud`
+- Advanced Python
+- FastAPI
+- Docker
+- PostgreSQL
+- Google Cloud
+- System Design
+- AI Integration
+
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals for 2026
 
-- ✅ Build 10+ Professional Projects
-- ✅ Master Flask
-- ✅ Learn Docker
-- ✅ PostgreSQL
-- ✅ Deploy Full Stack Applications
+- ✅ Build 15+ Professional Projects
+- ✅ Master Flask & FastAPI
+- ✅ Master PostgreSQL
+- ✅ Learn Docker & Kubernetes
+- ✅ Deploy Production Applications
 - ✅ Contribute to Open Source
-- ✅ Land an International Software Engineering Role
+- ✅ Secure International Software Engineering Role
 
 ---
 
 # 📈 Areas of Expertise
 
-`Python` • `Flask` • `REST APIs` • `SQL` • `SQLite` • `MySQL` • `Google Cloud` • `Cybersecurity` • `Git` • `GitHub`
+`Python`
+
+`Flask`
+
+`FastAPI`
+
+`REST APIs`
+
+`Backend Development`
+
+`SQLite`
+
+`SQL`
+
+`MySQL`
+
+`PostgreSQL`
+
+`Google Cloud`
+
+`Git`
+
+`GitHub`
+
+`Linux`
+
+`Cybersecurity`
+
 ---
 
+# 📊 GitHub Statistics
 
+<p align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumithackerchd&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumithackerchd&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumithackerchd&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sumithackerchd&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
 
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumithackerchd&theme=tokyo-night&hide_border=true" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumithackerchd&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
@@ -133,25 +281,18 @@
 # 📋 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumithackerchd&theme=tokyonight" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumithackerchd&theme=tokyonight"/>
+
 </p>
-
-
-
-
 
 ---
 
+# 💡 Developer Philosophy
 
+> **"Write clean code. Build scalable software. Keep learning every day."**
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=sumithackerchd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<a href="https://github.com/sumithackerchd?tab=followers">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white">  
-</p>
-
- 
-
+---
 
 ## 🐍 Contribution
 
