@@ -23,7 +23,7 @@
 
 # 👨‍💻 About Me
 
-💻 Passionate Software Engineer focused on building 
+💻 Passionate Software Engineer focused on building scalable backend applications.
 
 🐍 Python Backend Developer specializing in **Flask, SQL, SQLite, REST APIs and Backend Development.**
 
