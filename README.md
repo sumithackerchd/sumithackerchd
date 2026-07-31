@@ -23,19 +23,23 @@
 
 # 👨‍💻 About Me
 
-💻 Passionate Software Engineer focused on building scalable backend applications.
+💻 Passionate Software Engineer with a strong interest in building scalable backend systems, AI-powered applications, and cloud-based solutions.
 
-🐍 Python Backend Developer specializing in **Flask, SQL, SQLite, REST APIs and Backend Development.**
+🐍 Python Backend Developer specializing in **Flask, Django, REST APIs, SQL, SQLite, MySQL, and Backend Development.**
 
-☁️ Completed **Google Cloud Database Engineer Specialization (13 Courses)**.
+☁️ Completed the **Google Cloud Database Engineer Specialization (13 Courses)** and continuously expanding my expertise in cloud technologies.
 
-🗄️ Strong knowledge of **Database Design, SQL, SQLite & MySQL.**
+🗄️ Experienced in **Database Design, SQL, SQLite, MySQL, PostgreSQL**, and developing secure, high-performance web applications.
 
-🔐 Cybersecurity Enthusiast | Bug Hunter | Cloud Learner.
+🔐 Cybersecurity Enthusiast | Bug Hunter | Cloud Learner | Open Source Contributor.
 
-🚀 Currently building production-ready Flask applications and AI-powered tools.
+🚀 Currently building **production-ready Flask applications, AI tools, automation solutions, and modern web platforms.**
 
-🎯 Looking for **Software Engineer / Python Backend Developer** opportunities.
+🌱 Currently learning **Docker, PostgreSQL, System Design, CI/CD, and Google Cloud.**
+
+🎯 Seeking **Software Engineer / Python Backend Developer** opportunities, including **UK Visa Sponsorship** roles.
+
+⚡ I enjoy transforming ideas into reliable, user-focused software with clean, maintainable code.
 
 ---
 
