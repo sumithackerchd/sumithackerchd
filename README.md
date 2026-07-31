@@ -96,9 +96,12 @@
 
 ---
 
-# 🌱 Currently Learning
-
-`Advanced Python` • `Flask` • `REST APIs` • `PostgreSQL` • `Docker` • `Google Cloud`
+### 🌱 Currently Learning
+- Docker
+- PostgreSQL
+- System Design
+- Secure Authentication (JWT & OAuth)
+- CI/CD & DevOps
 ---
 
 # 🎯 2026 Goals
