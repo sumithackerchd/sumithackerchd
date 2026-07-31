@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Sumit Goswami</h1>
 
-<h3 align="center">Software Engineer | Python Backend Developer | Cloud & Database Enthusiast</h3>
+<h3 align="center">Software Engineer | Python Backend Developer | AI • Cloud • Database Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=950&lines=Software+Engineer;Python+Backend+Developer;Flask+Developer;Google+Cloud+Database+Engineer;SQL+Database+Specialist;Cybersecurity+Enthusiast;Open+Source+Learner" />
